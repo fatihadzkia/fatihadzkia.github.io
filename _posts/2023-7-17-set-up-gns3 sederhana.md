@@ -49,7 +49,7 @@ setelah itu lakukan relog pada user linux anda
 
 ### instalasi mikrotik 
 
-
+pertama tama anda harus menginstall 
 
 
 
