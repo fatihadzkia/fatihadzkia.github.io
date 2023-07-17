@@ -41,6 +41,79 @@ membuat data diri anda di about.sebenarnya ini tidak terlalu penting tapi ini bi
 lalu isi file about.md sperti contoh pada gambar di bawah ini 
 ![fork-4]({{ site.baseurl }}/images/ss about.png)
 
+## langkah keenam
+
+dan berikut nya adalah cara memasukan gambar pada repositori. cara ini cukup penting karena anda bisa menaruh gambar pada web anda 
+
+langkah pertama adalah anda masuk ke repositori images lalu klik upload file yang berada di pojok kanan atas.setelah itu anda tinggal drag and drop gambar yang ingin anda upload 
+
+lalu anda bisa menulis command seperti berikut 
+`![example]({{ site.baseurl }}/images/nama file gambar.png)`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
 
 
 
