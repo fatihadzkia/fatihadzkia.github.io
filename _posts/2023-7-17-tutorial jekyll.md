@@ -14,4 +14,6 @@ Anda harus mengambil sebuah fork dari repositori di bawah ini
 
 [sumber fork] ( https://github.com/barryclark/jekyll-now)
 
-dan anda bisa mengklik seperti pada di gambar di bawah ini 
+dan anda bisa mengklik seperti pada di gambar di bawah ini
+![fork-1]({{ site.baseurl }}/images/ss fork.png)
+
