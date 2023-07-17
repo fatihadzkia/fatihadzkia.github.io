@@ -22,4 +22,13 @@ dan anda bisa mengklik seperti pada di gambar di bawah ini
 berikut nya setelah anda mengambil repositori fork anda harus melakukan konfigurasi jekyll di github anda pada file _config.yml
 
 seperti pada gambar berikut 
-![fork-2]({{ site.baseurl }}/images/.png)
+![fork-2]({{ site.baseurl }}/images/Screenshot 2023-07-17 103336.png)
+
+pastikan data yang ada masukan pada file benar 
+
+## langkag ke empat 
+
+dan langkah terakhir setelah konfigurasi anda bisa melakukan percobaan meng upload sesuatu di fi web anda.
+anda bisa masuk ke file post
+
+
