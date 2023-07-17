@@ -49,8 +49,6 @@ setelah itu lakukan relog pada user linux anda
 
 ### instalasi mikrotik 
 
-pertama tama anda harus menginstall 
-
-
+pertama tama anda harus menginstall dengan mengabil file mikrotik di mikrotik.com
 
 
