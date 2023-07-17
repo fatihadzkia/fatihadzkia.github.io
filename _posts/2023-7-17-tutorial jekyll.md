@@ -17,3 +17,9 @@ Anda harus mengambil sebuah fork dari repositori di bawah ini
 dan anda bisa mengklik seperti pada di gambar di bawah ini
 ![fork-1]({{ site.baseurl }}/images/ss fork.png)
 
+## langkah ketiga 
+
+berikut nya setelah anda mengambil repositori fork anda harus melakukan konfigurasi jekyll di github anda pada file _config.yml
+
+seperti pada gambar berikut 
+![fork-2]({{ site.baseurl }}/images/.png)
