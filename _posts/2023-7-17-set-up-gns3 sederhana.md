@@ -39,13 +39,15 @@ kemudian install docker kembali
 # sudo apt update
 # sudo apt install docker-ce
 ```
-
+##
 lalu yang terakhir masukan user anda ke dalam grup dengan perintah di bawah ini 
 
 ```bash
 # sudo usermod -aG ubridge libvirt kvm wireshark docker $USER
 ```
 setelah itu lakukan relog pada user linux anda
+
+### instalasi mikrotik 
 
 
 
