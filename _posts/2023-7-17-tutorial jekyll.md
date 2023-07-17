@@ -28,8 +28,12 @@ pastikan data yang ada masukan pada file benar
 
 ## langkag ke empat 
 
-dan langkah terakhir setelah konfigurasi anda bisa melakukan percobaan meng upload sesuatu di fi web anda.
-anda bisa masuk ke file post
+dan langkah terakhir setelah konfigurasi anda bisa melakukan percobaan meng upload sesuatu di web anda.
+anda bisa masuk ke repositori post
+
+![fork-3]({{ site.baseurl }}/images/ss fork3.png)
+anda bisa mengisi file percobaan anda seperti pada gambar di atas. dan jangan lupa isi format pada judul berupa tahun-bulan-tanggal-judu/.md lalu klik commit changes
+
 
 
 
