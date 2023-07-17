@@ -12,7 +12,7 @@ Anda harus memiliki github terlebih dahulu. karena sumber web ini berasal dari g
 
 Anda harus mengambil sebuah fork dari repositori di bawah ini 
 
-[sumber fork] ( https://github.com/barryclark/jekyll-now)
+[sumber fork](https://github.com/barryclark/jekyll-now)
 
 dan anda bisa mengklik seperti pada di gambar di bawah ini
 ![fork-1]({{ site.baseurl }}/images/ss fork.png)
