@@ -69,9 +69,15 @@ lalu beri nama contoh seperti pada gambar > untuk nama bisa di sesuiakn dengan k
 
 ![qemu2]({{ site.baseurl }}/images/qemu2.png)
 
-setelah itu klik next apabila sudah muncul seperti pada gambar anda bisa memilih telnet sebagai konsole nya
+setelah itu klik next apabila sudah muncul seperti pada gambar anda bisa memilih telnet sebagai konsole nya lalu klik next
 
 ![qemu3]({{ site.baseurl }}/images/qemu3.png)
+
+setellaah itu pilih new image klik browser untuk mecari sumber img yang sudah kita extract tadi lalu klik finish 
+
+![qemu4]({{ site.baseurl }}/images/qemu4.png)
+
+
 
 
 
