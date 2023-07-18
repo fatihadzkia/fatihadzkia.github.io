@@ -65,9 +65,13 @@ apabila tampilan sudah seperti pada gambar di bawah ini pilih qemu lalu klik new
 
 ![qemu1]({{ site.baseurl }}/images/qemu1.png)
 
-lalu beri nama contoh seperti pada gambar (untuk nama bisa di sesuiakn dengan kebutuhan anda)
+lalu beri nama contoh seperti pada gambar > untuk nama bisa di sesuiakn dengan kebutuhan anda
 
 ![qemu2]({{ site.baseurl }}/images/qemu2.png)
+
+setelah itu klik next apabila sudah muncul seperti pada gambar anda bisa memilih telnet sebagai konsole nya
+
+![qemu3]({{ site.baseurl }}/images/qemu3.png)
 
 
 
