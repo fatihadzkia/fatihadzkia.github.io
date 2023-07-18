@@ -55,5 +55,7 @@ pertama tama anda harus menginstall dengan mengabil img image mikrootik pada sum
 
 setelah anda mendowload img image pastikan anda juga meng extrak nya terlebih dahulu seperti padagambar di bawah
 
+![qemu0]({{ site.baseurl }}/images/qemu0.png)
+
 
 
