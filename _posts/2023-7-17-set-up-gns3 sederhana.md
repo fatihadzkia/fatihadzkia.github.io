@@ -92,6 +92,13 @@ saya akan membuat topo logi singkat menggunakan Router,Mikrotik,dan beberapa pc 
 
 berikut gambar topologi singkat yang coba saya buat
 
+![topologi1]({{ site.baseurl }}/images/topologi1.png)
+
+setelah topologi selesai anda bisa langsung meng start mikrotik lalu masuk ke bagian console mikrotik anda
+
+setelah itu anda bisa menyeting ip mikrotik anda dengan perintah seperti berikut 
+
+
 
 
 
