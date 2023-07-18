@@ -67,6 +67,8 @@ apabila tampilan sudah seperti pada gambar di bawah ini pilih qemu lalu klik new
 
 lalu beri nama contoh seperti pada gambar (untuk nama bisa di sesuiakn dengan kebutuhan anda)
 
+![qemu2]({{ site.baseurl }}/images/qemu2.png)
+
 
 
 
