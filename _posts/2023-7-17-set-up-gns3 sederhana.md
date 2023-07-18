@@ -86,6 +86,13 @@ setelah itu klik edit dan samakan beberapa formmat seperti pada gambar
 > pastikan anda sudah menginstall xtrm untuk bisa mejalankan konsole mikrotik di gns3
 
 
+### membuat topologi singkat di gns3
+
+saya akan membuat topo logi singkat menggunakan Router,Mikrotik,dan beberapa pc client
+
+berikut gambar topologi singkat yang coba saya buat
+
+
 
 
 
