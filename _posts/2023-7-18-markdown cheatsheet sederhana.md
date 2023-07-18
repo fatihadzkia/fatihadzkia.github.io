@@ -20,12 +20,17 @@ Alt-H1
 Alt-H2
 ------
 
-selanjut nya adalah tanda apabila tulisan anda ingin miring yaitu menggunakan tanda ** dan _ _
+selanjut nya adalah tanda apabila tulisan anda ingin miring yaitu menggunakan tanda 1 bintang (*) dan 1 garis ( _ )maka hasil nya akan seperti di bawah ini
 
 *hello* _word_
 
+berikut nya tanda apabila tulisan anda ingin terlihat tebal yaitu mengunakan tanda 2 bintang (**) dan 2 garis bawah (__) maka hasil nya akan seperti di bawah
 
+**hello** __word__ 
 
+berikutnya apabila tulisan anda di coret yaitu menggunakan tanda 2 gelombang (~~) maka hasil nya akan seperti di bawah ini
+
+~~hello word~~
 
 
 
