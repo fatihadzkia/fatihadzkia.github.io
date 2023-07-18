@@ -36,6 +36,9 @@ selanjut nya apabila anda ingin menaruh sumber link maka format nya adalah
 ```
 [example](sumber yang ingin anda masukan)
 ```
+apabila anda ingin memasukan sebuah gambar di dalam dokumentasi anda bisa menggunakan format
+
+```
 
 
 
