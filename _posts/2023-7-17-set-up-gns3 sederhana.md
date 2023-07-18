@@ -53,9 +53,19 @@ pertama tama anda harus menginstall dengan mengabil img image mikrootik pada sum
 
 [mikrotik downloaad](https://download.mikrotik.com/routeros/6.49.8/chr-6.49.8.img.zip)
 
-setelah anda mendowload img image pastikan anda juga meng extrak nya terlebih dahulu seperti padagambar di bawah
+setelah anda mendowload img image pastikan anda juga meng extracx nya terlebih dahulu seperti padagambar di bawah
 
 ![qemu0]({{ site.baseurl }}/images/qemu0.png)
+
+setelah anda berhasil meng extracx file nya anda harus membuka gns3 yang sudah kita install sebelum nya
+
+setelah anda masuk ke gns3 anda bisa memilih edit yang berada di bagian atas kiri, lalu pilih preferences 
+
+apabila tampilan sudah seperti pada gambar di bawah ini pilih qemu lalu klik new 
+
+![qemu1]({{ site.baseurl }}/images/qemu1.png)
+
+
 
 
 
