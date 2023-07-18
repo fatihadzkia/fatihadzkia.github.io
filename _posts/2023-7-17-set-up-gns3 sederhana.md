@@ -51,6 +51,6 @@ setelah itu lakukan relog pada user linux anda
 
 pertama tama anda harus menginstall dengan mengabil img image mikrootik pada sumber ddi bawah ini 
 
-[mikrotik downloaad]()
+[mikrotik downloaad](https://download.mikrotik.com/routeros/6.49.8/chr-6.49.8.img.zip)
 
 
