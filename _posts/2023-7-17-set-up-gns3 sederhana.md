@@ -53,4 +53,7 @@ pertama tama anda harus menginstall dengan mengabil img image mikrootik pada sum
 
 [mikrotik downloaad](https://download.mikrotik.com/routeros/6.49.8/chr-6.49.8.img.zip)
 
+setelah anda mendowload img image pastikan anda juga meng extrak nya terlebih dahulu seperti padagambar di bawah
+
+
 
