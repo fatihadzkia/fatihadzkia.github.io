@@ -19,3 +19,17 @@ Alt-H1
 
 Alt-H2
 ------
+
+selanjut nya adalah tanda apabila tulisan anda ingin miring yaitu menggunakan tanda ** dan _ _
+
+*hello* _word_
+
+
+
+
+
+
+
+
+
+
