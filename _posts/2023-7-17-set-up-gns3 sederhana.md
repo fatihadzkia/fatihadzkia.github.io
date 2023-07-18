@@ -83,6 +83,7 @@ setelah itu klik edit dan samakan beberapa formmat seperti pada gambar
 
 ![qemu6]({{ site.baseurl }}/images/qemu6.png)
 
+> pastikan anda sudah menginstall xtrm untuk bisa mejalankan konsole mikrotik di gns3
 
 
 
