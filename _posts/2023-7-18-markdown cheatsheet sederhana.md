@@ -38,8 +38,9 @@ selanjut nya apabila anda ingin menaruh sumber link maka format nya adalah
 
 apabila anda ingin memasukan sebuah gambar di dalam dokumentasi anda bisa menggunakan format
 
-
-
+`![example]({{ site.baseurl }}/images/nama file gambar.png)`
+ 
+[sumber markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
