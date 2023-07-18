@@ -77,6 +77,11 @@ setellaah itu pilih new image klik browser untuk mecari sumber img yang sudah ki
 
 ![qemu4]({{ site.baseurl }}/images/qemu4.png)
 
+setelah itu klik edit dan samakan beberapa formmat seperti pada gambar 
+
+![qemu5]({{ site.baseurl }}/images/qemu5.png)
+
+![qemu6]({{ site.baseurl }}/images/qemu6.png)
 
 
 
