@@ -40,13 +40,16 @@ apabila anda ingin memasukan sebuah gambar di dalam dokumentasi anda bisa menggu
 
 `![example]({{ site.baseurl }}/images/nama file gambar.png)`
 
-taanda (`) di gunakan agar perintah seperti di atas tidak terdeteksi oleh jekyll
 
-tanda (```) untuk membuat seperti pada contoh di bawah\
+tanda (`) di gunakan agar perintah seperti di atas tidak terdeteksi oleh jekyll
+
+
+tanda (```) untuk membuat seperti pada contoh di bawah
 
 ```
 hello word
 ```
+
  
 [sumber markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
