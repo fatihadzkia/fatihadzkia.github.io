@@ -33,9 +33,9 @@ berikutnya apabila tulisan anda di coret yaitu menggunakan tanda 2 gelombang (~~
 ~~hello word~~
 
 selanjut nya apabila anda ingin menaruh sumber link maka format nya adalah 
-
-( [example](sumber yang ingin anda masukan) )
-
+```
+[example](sumber yang ingin anda masukan)
+```
 
 
 
