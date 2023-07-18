@@ -12,3 +12,6 @@ Di sini saya akan menjelaskan sedikit tentang markdown cheatsheet yang saya keta
 #### h4
 ##### h5
 ###### h6
+atau anda juga bisa menggunakan alternatif lain seperti pada contoh
+alt-h1
+alt-h2
