@@ -131,6 +131,26 @@ lalu anda juga perlu untuk menyeeting di bagian action nya seperti berikut
 
 ![winbox2]({{ site.baseurl }}/images/wb2.png)
 
+setelah selesai menyeting di mkrotik kita akan menyeting di pcc client
+
+untuk pc client vps anda  hanya perlu mengetikan perintah seperti berikut
+
+```bash
+ip dhcp
+```
+
+setelah itu anda bisa mengecek apabila sudah menjalankan perintah di atas
+
+```
+show ip
+ping google.com
+```
+apabila sudah bisa ping google seperti di atas maka pc vps sudah dapat akses internet dan ip dari mikrotik
+
+untuk selajut nya mengecek di clien slax. anda hanya perlu menjalankan slax lalu ke bagian next manager
+
+apabila sudah seperti gambar di bawah maka slax anda sudah mendapatkan internet dan ip secara dinamic dari mikrotik
+
 
 
 
