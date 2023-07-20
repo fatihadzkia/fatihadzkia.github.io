@@ -31,9 +31,23 @@ tunggu hingga proses install wine selesai
 setelah anda berhasil menginstall wine anda juga harus mengisntall winbox terlebih dahulu [disini](https://mikrotik.com/download)
 
 
+![winbox4]({{ site.baseurl }}/images/wb4.png)
 
+klik tombol winbox untuk mengunduh file **.exe** versi terbaru. setelah unduhan selesai anda anda bisa menaruh file winbox di 
 
+di drektori yang mudah anda akses
 
+file **winbox.exe** ini bukan merupakan file paket instalasi melaikan file launcher jadi anda tidak perlu melakukan installasi 
+
+lagi untuk menjalankan winbox 
+
+untuk menjalan kan winbox anda bisa menjalankan perintah di bawah ini 
+
+```bash
+# winebox.exe
+```
+
+> pastikan anda menjalankan perintah di atas di direktori tempat file winbox.exe berada
 
 
 
