@@ -151,6 +151,7 @@ untuk selajut nya mengecek di clien slax. anda hanya perlu menjalankan slax lalu
 
 apabila sudah seperti gambar di bawah maka slax anda sudah mendapatkan internet dan ip secara dinamic dari mikrotik
 
+![winbox3]({{ site.baseurl }}/images/wb3.png)
 
 
 
