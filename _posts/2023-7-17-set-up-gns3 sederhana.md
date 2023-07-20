@@ -160,10 +160,9 @@ selanjutnya saya akan mencoba  monitoring pc client dengan menggunakan apk  yang
 zabbix dengan menggunakaan pc debian ,jadi harap anda juga sudah melakukan installasi debian di gns3 anda
 
 
-..* Hal-hal yang harus di install sebelum melakukan konfigurasi zabbix
+* Hal-hal yang harus di install sebelum melakukan konfigurasi zabbix
 
-1 menginstall
-
+1. menginstall
 
 
 
