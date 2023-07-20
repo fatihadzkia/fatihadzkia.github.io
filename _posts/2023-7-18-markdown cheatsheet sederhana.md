@@ -50,6 +50,16 @@ tanda (```) untuk membuat seperti pada contoh di bawah
 hello word
 ```
 
+tanda bintang 1 (*) (+) dan (-) bisa di gunakan untuk penulisaan sub judul contoh
+
+
+* hello word
+  1. hallo dunia
+
+
+
+
+
  
 [sumber markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
