@@ -125,6 +125,11 @@ berikut nya anda harus melakukan setup di firewell. untuk di firewell senddiri s
 
 > jadi pastikan terlebih dahulu anda sudah menginstaal winbox di pc atau laptop anda
 
+![winbox1]({{ site.baseurl }}/images/wb1.png)
+
+lalu anda juga perlu untuk menyeeting di bagian action nya seperti berikut 
+
+![winbox2]({{ site.baseurl }}/images/wb2.png)
 
 
 
