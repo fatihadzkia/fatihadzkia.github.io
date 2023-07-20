@@ -107,6 +107,32 @@ ip add pr
 
 di topologi saya ether 1 saya hubungkan ke internet dan ether 2 saya hubungkan ke switch yang nanti nya akan memberikan ip ke pada para pc client 
 
+setelah anda menyeting ip untuk mikrotik selanjutnya anda harus mengsetup dhcp-server dengan perintah sebagai berikut 
+
+```bash
+ip dhcp-server setup
+```
+
+apabila anda tidak di minta untuk seperti menyeting berapa jumlah cliennt,dns,dll anda bisa langsung mengklik next saja sampai selesai
+
+setelah itu anda bisa mengecek dhcp-server dengan perintah sebagai berikut
+
+```bash
+ip dhcp-server print
+```
+
+berikut nya anda harus melakukan setup di firewell. untuk di firewell senddiri saya akan menggunakn winbox untuk contoh nya seperti pada gambar di bawah
+
+> jadi pastikan terlebih dahulu anda sudah menginstaal winbox di pc atau laptop anda
+
+
+
+
+
+
+
+
+
 
 
 
