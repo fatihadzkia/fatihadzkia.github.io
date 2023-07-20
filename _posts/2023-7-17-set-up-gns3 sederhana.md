@@ -153,16 +153,8 @@ apabila sudah seperti gambar di bawah maka slax anda sudah mendapatkan internet 
 
 ![winbox3]({{ site.baseurl }}/images/wb3.png)
 
-### Zabbix
-
-selanjutnya saya akan mencoba  monitoring pc client dengan menggunakan apk  yang bernama zabbix.saya akan melakukan konfigurasi
-
-zabbix dengan menggunakaan pc debian ,jadi harap anda juga sudah melakukan installasi debian di gns3 anda
 
 
-* Hal-hal yang harus di install sebelum melakukan konfigurasi zabbix
-
-1. menginstall
 
 
 
