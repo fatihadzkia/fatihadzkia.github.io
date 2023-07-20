@@ -50,7 +50,7 @@ tanda (```) untuk membuat seperti pada contoh di bawah
 hello word
 ```
 
-tanda bintang 1 (*) (+) dan (-) bisa di gunakan untuk penulisaan sub judul contoh
+tanda  (*) (+) dan (-) bisa di gunakan untuk penulisaan sub judul contoh
 
 
 * hello word
