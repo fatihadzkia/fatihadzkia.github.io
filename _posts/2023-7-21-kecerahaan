@@ -1,0 +1,16 @@
+---
+laayou: post
+title: tutorial mengatur kecerahan manual di linux
+
+
+### hanya untuk orang yang menyusahkan diri
+
+masuk root terlebih dahulu
+```bash
+sudo su
+```
+lalu ketikan perintah sebagai berikut
+```bash
+echo 2100 > /sys/class/backlight/intel_backlight/brightness
+```
+> nominal angka bisa di ganti sesuai kebutuhan 
