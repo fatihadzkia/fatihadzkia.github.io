@@ -1,7 +1,7 @@
 ---
 laayou: post
 title: tutorial mengatur kecerahan manual di linux
-
+---
 
 ### hanya untuk orang yang menyusahkan diri
 
