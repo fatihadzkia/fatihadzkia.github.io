@@ -99,7 +99,7 @@ setelah topologi selesai anda bisa langsung meng start mikrotik lalu masuk ke ba
 setelah itu anda bisa menyeting ip mikrotik anda dengan perintah seperti berikut 
 
 ```bash
-ip add add address= 192.168.1.1/24 interface= ether2
+ip add add address= 192.168.1.1/24 interface=ether2
 ip dhcp-client interface= 1
 ip add pr
 ```
