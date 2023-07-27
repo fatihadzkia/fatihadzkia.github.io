@@ -5,6 +5,7 @@ title: markdown cheatsheet
 
 Di sini saya akan menjelaskan sedikit tentang markdown cheatsheet yang saya ketahui dengan bahasa saya
 
+lambang (#) semakin banyak maka ukuran nya semakin mengecil seperti pada contoh di bawah ini
 
 # h1 berguna untuk hider seperti pada html 
 ## h2 semakin banyak tagar nya maka akan semakkin kecil ukurannya
