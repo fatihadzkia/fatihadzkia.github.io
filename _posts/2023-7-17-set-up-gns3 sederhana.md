@@ -1,6 +1,6 @@
 ---
 layout: post
-title: set up GNS3 sederhana
+title: GNS3 
 ---
 ### installasi
 anda bisa mengikuti command line di bawah ini untk installasi GNS3 di Ubuntu 64-bit 
