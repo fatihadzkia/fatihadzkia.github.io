@@ -26,7 +26,7 @@ Nah, kumpulan dari rangkaian traces yang saling bekerja sama untuk mengirimkan a
 
 __Bagian-bagian motherboard dan fungsinnya__
 
-1.Socket Prosessor / CPU Socket
+**1.Socket Prosessor / CPU Socket**
 
   ![mtr1]({{ site.baseurl }}/images/mtr1.png)
 
@@ -35,6 +35,39 @@ __Bagian-bagian motherboard dan fungsinnya__
 Pemilihan motherboard sebaiknya mempertimbangkan dengan jenis socket prosessor yang terpasang, karena socket tersebut tidak dapat dipasang oleh sembarang prosessor. Karena satu jenis prosessor sudah memiliki socketnya masing-masing, dan tidak dapat dipasang ke socket lain.
 
 Misalnya, ketika kamu membeli motherboard dengan socket prosessor untuk AMD, jangan harap kamu bisa menggunakan motherboard tersebut dengan prosessor Intel, karena socket yang digunakan jelas berbeda. Jadi, salah satu tips saat membeli motherboard adalah memperhatikan jenis socket prosessor yang ada, usahakan socket tersebut support dengan prosessor yang terbaru
+
+**2. Slot RAM**
+
+  ![mtr2]({{ site.baseurl }}/images/mtr2.png)
+
+Secara fisik, bentuknya memanjang, sesuai dengan panjang RAM. Pada umumnya posisi slot memory ini bersebelahan dengan socket prosessor, dan biasanya jumlahnya lebih dari satu slot. Disinilah RAM dipas
+
+Ingat, setiap jenis RAM (DDR, DDR2, DDR3) memiliki jenis slotnya tersendiri, jadi jangan sembarangan membeli RAM, harus sesuai dengan slot memory yang ada pada motherboard.
+
+**3.Slot IDE dan Slot SATA**
+
+  ![mtr3]({{ site.baseurl }}/images/mtr3.png)
+
+  Slot ini berbeda bentuknya, tetapi memiliki fungsi yang sama, yaitu untuk penghubung Hardisk atau CD-ROM ke motherboard. Ciri fisk dan slot IDE adalah bentuknya yang agak memanjang, menyesuaikan dengan kondisi fisik kabel data IDE. Sedangkan untuk slot sata, bentuk fisiknya lebih kecil, dan tidak terlalu memakan tempat, karena kabel data SATA juga bentuknya relatif kecil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
    
