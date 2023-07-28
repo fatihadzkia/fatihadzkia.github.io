@@ -26,7 +26,18 @@ Nah, kumpulan dari rangkaian traces yang saling bekerja sama untuk mengirimkan a
 
 __Bagian-bagian motherboard dan fungsinnya__
 
-1. 
+1.Socket Prosessor / CPU Socket
+
+  ![mtr1]({{ site.baseurl }}/images/mtr1.png)
+
+  Socket Prosessor merupakan tempat dimana prosessor terpasang. Kalau dilihat secara fisik, area dari socket prosessor ini selalu dikelilingi oleh 4 lubang untuk penyangga Heatsink Fun, karena Prosessor sangat memerlukan penghantar panas saat bekerja.
+  
+Pemilihan motherboard sebaiknya mempertimbangkan dengan jenis socket prosessor yang terpasang, karena socket tersebut tidak dapat dipasang oleh sembarang prosessor. Karena satu jenis prosessor sudah memiliki socketnya masing-masing, dan tidak dapat dipasang ke socket lain.
+
+Misalnya, ketika kamu membeli motherboard dengan socket prosessor untuk AMD, jangan harap kamu bisa menggunakan motherboard tersebut dengan prosessor Intel, karena socket yang digunakan jelas berbeda. Jadi, salah satu tips saat membeli motherboard adalah memperhatikan jenis socket prosessor yang ada, usahakan socket tersebut support dengan prosessor yang terbaru
+
+
+   
 
 
 
