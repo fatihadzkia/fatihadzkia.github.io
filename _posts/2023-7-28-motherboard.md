@@ -24,7 +24,9 @@ Traces sendiri berperan sebagai sirkuit untuk mengirimkan sinyal listrik ke CPU,
 Nah, kumpulan dari rangkaian traces yang saling bekerja sama untuk mengirimkan arus atau data kepada komponen-komponen di motherboard disebut sebagai bus. 
 
 
-*__Bagian-bagian motherboard dan fungsinnya__
+__Bagian-bagian motherboard dan fungsinnya__
+
+1. 
 
 
 
