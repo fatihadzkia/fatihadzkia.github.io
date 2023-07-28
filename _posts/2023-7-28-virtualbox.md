@@ -11,7 +11,7 @@ yaitu mengubah atau mengkonversi sesuatu dari bentuk real menjadi bentuk simulas
 
 dan pengertian dari vritualbox anda bisa mengujungi link berikut
 
-[sumber virtualbox](https://barki.uma.ac.id/2022/01/04/pengertian-sejarah-fungsi-dan-manfaat-virtualbox/)
+[sumber](https://barki.uma.ac.id/2022/01/04/pengertian-sejarah-fungsi-dan-manfaat-virtualbox/)
 
 baik di sini saya akan mengasih tutorial menginstall virtualbox dengan 2 opsi yaitu
 
